@@ -18,3 +18,8 @@ Data Scientist, DIO
 
 
 ![projeto e-commerce ](https://github.com/user-attachments/assets/ab347f8c-c7d8-4845-89d2-53ac771c0abf)
+### Para cliente foram criadas duas entidades sendo cliente-PF, cliente-PJ para uso de indentificaçao 
+
+### Para pagamento foram criadas duas formas de pagamentos 
+
+### Para entrega foi criada uma entidade para guardar informações de envio e rastreamento
